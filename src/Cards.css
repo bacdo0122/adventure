@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    margin-top: 1rem;
+    padding: 3rem 0;
+    font-size: 2rem;
+    color: #242424;
+}
+.big-img{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    padding: 3rem 0;
+}
